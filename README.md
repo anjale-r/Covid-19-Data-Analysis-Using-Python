@@ -18,3 +18,5 @@ Perform correlation analysis and visualize insights using Seaborn.
 Datasets Used
 
 COVID-19 Dataset – Contains daily cumulative confirmed cases per country.
+
+Happiness Dataset – Includes various life factors scored by people living in each country.
